@@ -1,0 +1,9 @@
+{
+  "contract": "0x454ca444D6BD8060DFD611F6CB26623ADa1DC363",
+  "source_commit": "485c93a3d29498d974a8219ba6e1aa25f8c30348",
+  "method": "gen_getContractCode",
+  "encoding": "base64",
+  "bytes": 10909,
+  "sha256": "911f3a185712fa883020dcd86c405467caf3b12c2179a8436309d535ffef093e",
+  "exact_match": true
+}

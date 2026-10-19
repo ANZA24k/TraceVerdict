@@ -1,0 +1,104 @@
+{
+  "hash": "0xfc843448aafb83fb9c3875a63854832f223e43542ddf009580e98159b0129db3",
+  "from_address": "0xe74B0C822c1af78046ca0304b2aa69160c6cc3b8",
+  "to_address": "0x454ca444D6BD8060DFD611F6CB26623ADa1DC363",
+  "type": 1,
+  "status": "FINALIZED",
+  "result_name": "MAJORITY_AGREE",
+  "created_at": "2026-10-19T10:53:20.858806+00:00",
+  "leader_only": false,
+  "execution_mode": "NORMAL",
+  "num_of_initial_validators": 5,
+  "rotation_count": 0,
+  "tx_execution_hash": "0xa6741c743530674f89d18c38d9b6578d134920c1afcafddb82f25e31eec8a9d6",
+  "receipt_kind": "selected fields from eth_getTransactionByHash",
+  "votes": {
+    "0x1242E9f5bf9b253327f130E8802b7b2F438A21Ef": "agree",
+    "0x9244De5F20cB75A0c51d79A9A3208D00a99aFc10": "agree",
+    "0xa21bc502E3578E4b3039be8c59a257198f7c3f19": "agree",
+    "0xad7d13f269CeAd4379E64a1A3a0803a827e70B43": "agree",
+    "0xf29b6947ed298d139FC2655DB15D868C9AbB3091": "agree"
+  },
+  "leader_receipts": [
+    {
+      "mode": "leader",
+      "execution_result": "SUCCESS",
+      "result": "AAA=",
+      "eq_outputs": {},
+      "genvm_result": {
+        "stderr": "",
+        "stdout": "",
+        "raw_error": null,
+        "error_code": null,
+        "error_description": null
+      }
+    },
+    {
+      "mode": "validator",
+      "vote": "agree",
+      "execution_result": "SUCCESS",
+      "result": "AAA=",
+      "genvm_result": {
+        "stderr": "",
+        "stdout": "",
+        "raw_error": null,
+        "error_code": null,
+        "error_description": null
+      }
+    }
+  ],
+  "validator_receipts": [
+    {
+      "mode": "validator",
+      "vote": "agree",
+      "execution_result": "SUCCESS",
+      "result": "AAA=",
+      "genvm_result": {
+        "stderr": "",
+        "stdout": "",
+        "raw_error": null,
+        "error_code": null,
+        "error_description": null
+      }
+    },
+    {
+      "mode": "validator",
+      "vote": "agree",
+      "execution_result": "SUCCESS",
+      "result": "AAA=",
+      "genvm_result": {
+        "stderr": "",
+        "stdout": "",
+        "raw_error": null,
+        "error_code": null,
+        "error_description": null
+      }
+    },
+    {
+      "mode": "validator",
+      "vote": "agree",
+      "execution_result": "SUCCESS",
+      "result": "AAA=",
+      "genvm_result": {
+        "stderr": "",
+        "stdout": "",
+        "raw_error": null,
+        "error_code": null,
+        "error_description": null
+      }
+    },
+    {
+      "mode": "validator",
+      "vote": "agree",
+      "execution_result": "SUCCESS",
+      "result": "AAA=",
+      "genvm_result": {
+        "stderr": "",
+        "stdout": "",
+        "raw_error": null,
+        "error_code": null,
+        "error_description": null
+      }
+    }
+  ]
+}

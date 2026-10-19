@@ -1,0 +1,23 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/ANZA24k/TraceVerdict/485c93a3d29498d974a8219ba6e1aa25f8c30348/fixtures/origin.txt",
+    "sha256": "2a9712e1bd9b959b3168e9b82a95d1b919559f138140d30f3794791c3f922edf",
+    "bytes": 310,
+    "timestamp": 1,
+    "role": "origin"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/ANZA24k/TraceVerdict/485c93a3d29498d974a8219ba6e1aa25f8c30348/fixtures/history.txt",
+    "sha256": "803f26de6da1fafbd8e94d08103070d8fc12a68cf7e4e10ea61b2fa48548d0e9",
+    "bytes": 500,
+    "timestamp": 1,
+    "role": "history"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/ANZA24k/TraceVerdict/485c93a3d29498d974a8219ba6e1aa25f8c30348/fixtures/artifact.txt",
+    "sha256": "def0c2d64838b8eb4c394b2dc4b46d654c0ca0588c5f2af158a6c011f5cf8105",
+    "bytes": 395,
+    "timestamp": 1,
+    "role": "artifact"
+  }
+]

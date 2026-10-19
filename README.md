@@ -6,6 +6,8 @@ TraceVerdict is a standalone GenLayer Intelligent Contract. Submit a precise art
 
 No frontend, wallet integration, escrow, external oracle, database or administrator is required.
 
+**Live on stable Studionet:** [contract](https://explorer-studio.genlayer.com/address/0x454ca444D6BD8060DFD611F6CB26623ADa1DC363). A real Full Consensus evaluation finalized **VERIFIED**. [Complete evidence and reproducible decision hash](docs/LIVE_VERIFICATION.md) · [Submission text](docs/SUBMISSION.md).
+
 ## Workflow
 
 1. `submit(claim, evidence_manifest, previous_id)` commits the claim and manifest, records caller ownership and transaction time, and returns a content-derived record ID. Use `""` for a new claim.

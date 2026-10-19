@@ -1,0 +1,49 @@
+{
+  "claim": "Synthetic note version 2 derives from version 1, changing blue to green with the interval unchanged; history links both exact files. No external authorship or publication date is claimed.",
+  "commitment": "6b7ff4f6651372858d97359b0912cc13480292306ebeab072eb16340506cd153",
+  "decision_hash": "b6d370223410d51975810a1a6824e26ad901881d753c158609943695754ca70f",
+  "evaluated_at": 1792407369,
+  "id": "1b8286a835249e0203642a416f256dd11b3806657e76f6e01934a3d50f001a17",
+  "manifest": [
+    {
+      "bytes": 310,
+      "role": "origin",
+      "sha256": "2a9712e1bd9b959b3168e9b82a95d1b919559f138140d30f3794791c3f922edf",
+      "timestamp": 1,
+      "url": "https://raw.githubusercontent.com/ANZA24k/TraceVerdict/485c93a3d29498d974a8219ba6e1aa25f8c30348/fixtures/origin.txt"
+    },
+    {
+      "bytes": 500,
+      "role": "history",
+      "sha256": "803f26de6da1fafbd8e94d08103070d8fc12a68cf7e4e10ea61b2fa48548d0e9",
+      "timestamp": 1,
+      "url": "https://raw.githubusercontent.com/ANZA24k/TraceVerdict/485c93a3d29498d974a8219ba6e1aa25f8c30348/fixtures/history.txt"
+    },
+    {
+      "bytes": 395,
+      "role": "artifact",
+      "sha256": "def0c2d64838b8eb4c394b2dc4b46d654c0ca0588c5f2af158a6c011f5cf8105",
+      "timestamp": 1,
+      "url": "https://raw.githubusercontent.com/ANZA24k/TraceVerdict/485c93a3d29498d974a8219ba6e1aa25f8c30348/fixtures/artifact.txt"
+    }
+  ],
+  "manifest_hash": "2c0b6182da62f1a937e10aadb64b48926b8fded21f910ecf26ee718c90d3cdba",
+  "owner": "0xe74B0C822c1af78046ca0304b2aa69160c6cc3b8",
+  "previous_id": "",
+  "result": {
+    "authentication": [
+      "AUTHENTICATED",
+      "AUTHENTICATED",
+      "AUTHENTICATED"
+    ],
+    "outcome": "VERIFIED",
+    "ratings": {
+      "chain": "SUPPORTED",
+      "modifications": "SUPPORTED",
+      "origin": "SUPPORTED",
+      "support": "SUPPORTED"
+    }
+  },
+  "state": "FINAL",
+  "submitted_at": 1792407288
+}
