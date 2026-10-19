@@ -29,7 +29,7 @@ def mocks(vm, ratings=None):
 def env(direct_vm, direct_deploy):
     direct_vm.warp("2026-10-19T10:00:00Z")
     direct_vm.check_pickling = True
-    return direct_vm, direct_deploy("contracts/traceverdict.py")
+    return direct_vm, direct_deploy("contracts/traceverdict.py", sdk_version="v0.2.16")
 
 
 def submit(c, evidence=None, claim=CLAIM, previous=""):

@@ -11,3 +11,5 @@ Reviewed before implementation:
 - [Studio](https://docs.genlayer.com/developers/intelligent-contracts/tools/genlayer-studio) and [deployment](https://docs.genlayer.com/developers/intelligent-contracts/deploying): built-in tooling, network choice and verification of execution outcome separately from lifecycle status.
 
 The contract uses only the public SDK surface and standard-library deterministic parsing/hash operations. No internal prompt templates, deprecated `gl.exec_prompt`, external wall clock, arbitrary-host web oracle or leader-only validator is used.
+
+Tests explicitly select GenVM release `v0.2.16` as the artifact bundle and still resolve the exact runner hash from the contract header. This avoids genlayer-test 0.29.2 selecting a later release candidate with a renamed download asset on a clean CI machine.
