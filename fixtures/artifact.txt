@@ -1,0 +1,7 @@
+TRACEVERDICT SYNTHETIC FIXTURE — NOT A REAL AUTHORSHIP CERTIFICATE
+Record ID: sample-note-001
+Scope: internal history of a synthetic demonstration note only.
+Version: 2
+Text: The sample beacon emits a green pulse every ten seconds.
+Modification disclosed: changed pulse color from blue to green; interval unchanged.
+No external person, organization, publication date or ownership is asserted.

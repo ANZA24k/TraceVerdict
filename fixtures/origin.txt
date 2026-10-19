@@ -1,0 +1,6 @@
+TRACEVERDICT SYNTHETIC FIXTURE — NOT A REAL AUTHORSHIP CERTIFICATE
+Record ID: sample-note-001
+Scope: internal history of a synthetic demonstration note only.
+Version: 1
+Text: The sample beacon emits a blue pulse every ten seconds.
+No external person, organization, publication date or ownership is asserted.

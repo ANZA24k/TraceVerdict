@@ -1,0 +1,9 @@
+TRACEVERDICT SYNTHETIC TRANSITION RECORD
+Record ID: sample-note-001
+Transition: version 1 -> version 2
+Origin SHA-256: 2a9712e1bd9b959b3168e9b82a95d1b919559f138140d30f3794791c3f922edf
+Origin bytes: 310
+Artifact SHA-256: def0c2d64838b8eb4c394b2dc4b46d654c0ca0588c5f2af158a6c011f5cf8105
+Artifact bytes: 395
+Material modification: blue pulse -> green pulse. Ten-second interval unchanged.
+This links only these synthetic note versions, with no claim of external authorship or trusted publication dates.
